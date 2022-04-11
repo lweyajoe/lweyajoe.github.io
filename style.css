@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://drive.google.com/file/d/1FleCD7kRI1R-YZiHKWUAh1pB37fdf5TJ/view?usp=sharing") no-repeat center;
+    background: url("https://github.com/lweyajoe/lweyajoe.github.io/blob/main/banneri.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
